@@ -26,18 +26,18 @@ This project is a console-based application designed to manage records of Covid-
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone (https://github.com/JanithaB/patient-management-system.git)
+   cd patient-management-system
    ```
 
 2. Compile the program:
    ```bash
-   gcc -o patient_management patient_management.c
+   gcc -o patient_management pms.c
    ```
 
 3. Run the executable:
    ```bash
-   ./patient_management
+   ./pms
    ```
 
 ### Usage
